@@ -16,3 +16,21 @@ h3{
     color: #C06014;
 }
 
+
+/*########################## Classes specifications ##########################3
+Puedo tener la misma clases varias veces en cada hoja. E incluso en cada elemento
+*/
+
+.skills:hover{
+    color: #F3F4ED;
+    background-color: #C06014;
+}
+
+
+/*########################## ID specifications ##########################3
+Solo puedo tener una id de un tipo en una hoja y solo se puede una id por elemento
+*/
+
+#perfil{
+    border-radius: 100%;
+}
