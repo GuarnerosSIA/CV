@@ -1,6 +1,4 @@
-div{
-    background-color: #D6E4E5;
-}
+
 
 body{
     margin: 0;
@@ -8,4 +6,22 @@ body{
 
 h1{
     margin: 0;
+}
+
+/*Classes*/
+.top-container{
+    background-color: #F3F4ED;
+    padding: 20px;
+    border: solid 10px;
+    margin: 5px;
+}
+.middle-container{
+    background-color: salmon;
+    height: 200px;
+    width: 200px;
+}
+.bottom-container{
+    background-color: #804D4D;
+    height: 200px;
+    width: 200px;
 }
